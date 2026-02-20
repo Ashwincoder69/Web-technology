@@ -1,0 +1,28 @@
+<html>
+<head>
+<title>Heading tags</title>
+</head>
+<body>
+<h1>order list</h1>
+<ol>
+<li> list item</li>
+<li> tomato</li>
+<li> India</li>
+<li> mango</li>
+</ol>
+<h2> Under order list</h2>
+<ul>
+<li>1st item</li>
+<li>2st item</li>
+<li>3st item</li>
+<li>4st item</li>
+</ul>
+<h3>definition</h3>
+<dl>
+<dt>chocoloate</dt>
+<dd>dairy milk</dd>
+<dd>5 star </dd>
+
+</body>
+</html>
+
