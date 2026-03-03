@@ -1,0 +1,49 @@
+<html>
+<head>
+<title>Time Table</title>
+</head>
+<body>
+<h1 align="center">Revise time table<br>2nd sem FYBCA-A</h1>
+<table border ="4">
+<tr>
+<th>TIME/DAY</th>
+<th>MONDAY</th>
+<th>TUESDAY</th>
+<th>WEDNESDAY</th>
+<th>THURSDAY</th>
+<th>FRIDAY</th>
+<th>SATURDAY</th>
+</tr>
+<tr>
+<td>9:30-10:30<br>10:30-11:30<br>11:30-12:30<br>12:30-1:30<br>1:30-1:45<br>1:45-3:45<br></td>
+<td>C.C<br>C.C<br>C.C<br>C.C<br>BREAK<br>C.C<br></td>
+<td>Kskool<br>OS<br>DS<br>JAVA<br> <br> <br></td>
+<td><br>OS<br>JAVA<br>IC<br><br>JAVA B-1 L5/DS B-2 L6<br></td>
+<td>WEB<br>MATH<br>IC<br>DS<br><br>JAVA B-2 L5/DS B-1 L6<br></td>
+<td>JAVA<br>WEB<br>WEB B-1L2/OS B-2 L6<br>WEB B-2 L2/OS B-1 L6<br><br></td>
+<td>WEB<br>MATH<br>DS<br>OS<br><br>WEB B-2 L2/OS B-1 L6<br></td>
+</tr>
+</table>
+<h1 align="center">FYBCA-B</h1>
+<table border ="4">
+<tr>
+<th>TIME/DAY</th>
+<th>MONDAY</th>
+<th>TUESDAY</th>
+<th>WEDNESDAY</th>
+<th>THURSDAY</th>
+<th>FRIDAY</th>
+<th>SATURDAY</th>
+</tr>
+<tr>
+<td>9:30-10:30<br>10:30-11:30<br>11:30-12:30<br>12:30-1:30<br>1:30-1:45<br>1:45-2:45<br>2:45-3:45<br></td>
+<td>C.C<br>C.C<br>C.C<br>C.C<br>BREAK<br>C.C<br>C.C<br></td>
+<td>Kskool<br>DS<br>JAVA<br>OS<br> <br>WEB B-2 L4/OS B-1 L5<br>WEB B-2 L4/OS B-1 L5<br></td>
+<td>DS B-1 L1<br>IC<br>MATH<br>OS<br> <br>JAVA B-1 L4/DS B-2L6<br>JAVA B-1 L4/DS B-2L6<br></td>
+<td>DS B-1 L1<br>DS<br>WEB<br>OS<br> <br>IC<br> <br></td>
+<td>JAVA<br>MATH<br>DS<br>WEB<br> <br>WEB B-1 L5/JAVA B-2 L4<br>WEB B-1 L5/JAVA B-2 L4<br></td>
+<td> <br>WEB<br>JAVA<br>DS B-2 L2<br> <br>DS B-2 L2<br> <br></td>
+</tr>
+</table>
+</body>
+</html>
